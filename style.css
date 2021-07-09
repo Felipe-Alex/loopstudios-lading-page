@@ -126,10 +126,6 @@ p {
     }
 }
 
-/* .menu a:hover { //agregar barrita debajo del nombre
-    border-bottom: 1px solid var(--color-white);
-} */
-
 /* *******Creation******* */
 .creation__btn {
     display: inline-block;
@@ -276,7 +272,7 @@ p {
 
 /* ******* Header Styles **** */
 .header {
-    background-image: url(/images/mobile/image-hero.jpg);
+    background-image: url(./images/mobile/image-hero.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     height: 100vh;
@@ -300,7 +296,7 @@ p {
 
 @media only screen and (min-width: 768px) {
     .header {
-        background-image: url(/images/desktop/image-hero.jpg);
+        background-image: url(./images/desktop/image-hero.jpg);
         background-blend-mode: darken;
         background-color: rgba(0,0,0,0.4);
     }
