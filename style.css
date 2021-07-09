@@ -102,6 +102,7 @@ p {
     text-align: left;
     text-transform: uppercase;
     color:var(--color-white);
+    width: max-content;
 }
 
 @media only screen and (min-width: 768px) {
