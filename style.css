@@ -127,10 +127,6 @@ p {
     }
 }
 
-/* .menu a:hover { //agregar barrita debajo del nombre
-    border-bottom: 1px solid var(--color-white);
-} */
-
 /* *******Creation******* */
 .creation__btn {
     display: inline-block;
