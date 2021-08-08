@@ -251,6 +251,10 @@ p {
     display: none;
 }
 
+.noscroll {
+    overflow: hidden;
+}
+
 .black {
     /*I used important because heather styles added later, another option would be to move utilities after site styles*/
     background-image: none !important; 
